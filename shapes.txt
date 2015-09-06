@@ -1,2 +1,6 @@
 circle
 square
+parallelogram
+rectangle
+trapezoid
+rhombus
