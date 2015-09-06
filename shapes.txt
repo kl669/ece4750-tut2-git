@@ -4,3 +4,5 @@ parallelogram
 rectangle
 trapezoid
 rhombus
+hexagon
+pentagon
